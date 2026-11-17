@@ -1,6 +1,6 @@
 # Ray Tracer
 
-A C++/Qt ray tracer built for Brown's CS 1230 (Computer Graphics), supporting recursive reflections, antialiasing, and texture filtering across 4 shape types and 3 light types.
+A C++/Qt ray tracer built for my Computer Graphics class, supporting recursive reflections, antialiasing, and texture filtering across 4 shape types and 3 light types.
 
 Source code is private due to course policy, but I can share on request.
 
