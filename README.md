@@ -14,6 +14,7 @@ Source code is private due to course policy, but I can share on request.
 - 1024x768 renders, validated across 20 test scenes
 
 ## Renders
+60+ render images are in the all_outputs folder. A few highlights below:
 
 ### Reflections
 
